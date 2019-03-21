@@ -1,0 +1,17 @@
+#Link shows how to generate and upload SSH key to Git for connection our desktop
+https://help.github.com/en/articles/connecting-to-github-with-ssh
+
+##Keeping A GitHub Fork Updated
+https://thoughtbot.com/blog/keeping-a-github-fork-updated
+
+###Configuring Remote for a Fork
+https://help.github.com/en/articles/configuring-a-remote-for-a-fork
+
+####Syncing a Fork
+https://help.github.com/en/articles/syncing-a-fork
+
+#####Pushing changes to our GitHub
+https://help.github.com/en/articles/pushing-to-a-remote
+
+Updating fork for changes in original
+https://gist.github.com/CristinaSolana/1885435
